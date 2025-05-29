@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
-    <title> Hotels Ltd! | Welcome</title>
+    <title>DreamView Hotels Ltd! | Welcome</title>
     <link rel="stylesheet" href="./css/style.css">
   </head>
   <body>
@@ -25,7 +25,7 @@
 
     <section id="showcase">
       <div class="container">
-        <h1><font color="black">Welcome to Hotel Ltd!</h1>
+        <h1><font color="black">Welcome to Dreamview Hotel Ltd!</h1>
         <p><font color="black">  We offer unique ways to help you enjoy life.  We provide a wide range of varities so that you can choose according to your need. Here, you can get free access to key info like market values, room reviews, price drops and there is no haggling and also can connect to the internet to reserve a room.
         Here, the rooms are for your comfort, adventure and they are tested to meet your wildest desires. "Renting a room that will fulfill your needs is out top priority". You can rely on Dreamview after all we are serving with over 2 days of knowledge xD.</p></font>
       </div>
